@@ -15,7 +15,7 @@ CARD_CVV = "1234"
 # 寄付者情報
 LAST_NAME = "山田"
 FIRST_NAME = "太郎"
-LAST_NAME_KANA = "山田"
+LAST_NAME_KANA = "ヤマダ"
 FIRST_NAME_KANA = "タロウ"
 ZIP_CODE = "123-4567"
 PREFECTURE = "東京都"
